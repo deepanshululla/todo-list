@@ -6,5 +6,5 @@ Todo-list using jquery
 
 View project at
 
-http://deepanshululla.com/todo-list/
+http://deepanshululla.com/todo-list-jquery/
 
